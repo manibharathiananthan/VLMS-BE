@@ -1,0 +1,6 @@
+@AutoCare_Maintanence_HostAddress = http://localhost:5137
+
+GET {{AutoCare_Maintanence_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
